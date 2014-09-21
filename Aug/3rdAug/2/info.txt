@@ -1,0 +1,24 @@
+Procedural Programming
+top to bottom approach
+data is less secure in comparison to OOP
+
+
+Object Oriented Programming
+bottom up approach
+data is more secure
+
+it is close to real world
+it reduces the complexity
+it makes development,debugging and maintenance easy
+
+
+Abstraction
+Data Hiding
+Encapsulation
+Inheritance
+
+
+........
+Object based
+VB6
+

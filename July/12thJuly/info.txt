@@ -1,0 +1,185 @@
+
+/*
+annotation:
+-----------------------
+@deprecated
+
+@Override
+void display()
+{
+}
+*/
+
+
+
+token
+------------
+smallest individual unit of program
+
+
+token types:
+1 Punctuator(Separator)
+{,},[,],(,),;,,,. ,'," ,: etc
+
+2 Identifier
+are names given to variable,class,array,interface,enum,annotation,method etc.
+
+int n;
+
+class A
+main
+args
+
+
+
+Identifier naming rules:
+
+1 spaces are not allowed
+int total marks;
+
+2 special characters are not allowed except _ and $
+
+3 length of identifier can be anything
+
+4 can not begin with digit
+
+  int 1num; //error
+  int num1;//correct
+
+
+5 keyword can not be used as identifier
+
+ int for;
+ int class;
+
+  Class
+  Constructor
+  Field
+  Method
+
+6  Identifier names are case sensitive
+
+	 int num;
+         System.out.println(Num);
+
+
+3 Keyword
+
+ words that carry special meaning to the language compiler
+
+ there are 50 keywords in Java
+
+some of the kewords are :
+1 class
+2 public
+3 static 
+4 void
+5 byte
+6 short
+7 int
+8 long
+9 float
+10 double
+11 char
+12 boolean
+13 private
+14 protected
+15 for
+16 while
+17 do
+18 if
+19 else
+20 switch
+21 case
+22 default
+23 try
+24 catch
+25 finally
+26 throw
+27 throws
+28 transient
+29 synchronized
+30 native
+31 enum
+32 goto  (no meaning)
+33 const (no meaning)
+34 final
+35 strictfp
+36 interface
+37 return
+38 break
+39 continue
+40 assert
+41 extends
+42 implements
+43 abstract
+44 instanceof
+45 package
+46 import
+47 super
+48 new
+49 this
+50 volatile
+
+
+
+
+4 Literal
+
+are fixed values that do not change during the execution of the program
+
+1 Integer
+2 Floating
+3 character
+4 boolean 
+5 String 
+6 null
+
+
+
+5 Operator
+----------------------------------
+
+
+Integer literal is of following types:
+1 decimal
+2 binary
+3 octal
+4 hexadecimal
+-------------------------
+
+
+some of the escape sequences are :
+
+1 \n 		newline 
+2 \b 		backspace
+3 \r		return 
+4 \t		tab
+5 \\    	escape 
+6 \"		double quote
+7 \'		single quote
+8 \uxxxx	unicode character
+
+ascii is an encoding scheme. It stands for american standard code for information interchange.
+
+An encoding scheme maps character or symbol to a number
+
+there is no full form of UNICODE
+unicode is super set of ascii
+
+65536 characters can be represented through unicode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+
+following is the syntax of method definition:
+
+
+[access specifier] [modifier] return-type methodName([parameter])
+{
+//body of the method
+}
+

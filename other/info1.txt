@@ -1,0 +1,119 @@
+
+
+Java SE (J2SE) -> Core Java
+Java Platform Standard Edition
+
+
+Java EE
+Java Platform Enterprise Edition
+
+
+Android
+
+
+Java ME
+Java TV
+Java Card
+Java for Embedded
+
+
+
+
+----------------------------
+J2EE is the No. 1 server side technology
+
+
+Business Applications
+Network based applications
+games
+
+
+
+Stand alone applications
+web applications
+Enterprise applications
+mobile applications
+
+
+
+
+
+Java Script
+......................................
+is a client side scripting language
+is used only in web applications
+to make pages dynamic
+
+
+
+Java script is somewhat similar to Java
+
+
+
+
+
+
+
+
+C vs Java
+--------------------
+
+
+
+C
+System Programming
+
+
+
+
+
+Amazon
+Google
+
+SAP 
+Oracle
+Sun Microsystem
+
+
+Java is Free
+Java is Platform independent
+Java is Open Source
+
+100 
+
+
+
+Algorithm
+Data Structure
+Maths
+
+
+One thing 
+
+
+expert 
+fresher 
+
+
+
+
+
+Percentage
+
+spoken English
+
+Aptitude test
+elitmus
+
+
+Live Project
+
+
+Btech
+
+
+
+-----------------------------
+Java is high level language
+-----------------------------
+

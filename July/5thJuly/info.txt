@@ -1,0 +1,149 @@
+Java is a technology 
+It is also a group of technologies:
+
+Java SE(J2SE) Java Platform Standard Edition
+
+Java SE is Core Java
+...........................
+
+Java EE(J2EE) Java Platform Enterprise Edition
+
+Java ME(J2ME) Java Platform Micro Edition
+------------------------------------------------
+
+Standalone application (application)
+web application
+Enterprise Application
+Mobile application
+etc
+..............................................
+
+
+Standalone application has main as the entry point
+public static void main
+-----------------------------------------------------------------------
+
+
+JVM
+Java Virtual Machine
+
+JRE
+Java Run time Environment
+
+JDK
+Java Development Kit
+...................................................
+
+
+
+source code
+Program written by a programmer in any language.
+
+machine code
+is the form in which a program can run. It is also known as native code.It is platform dependent.
+
+native code
+
+
+byte code
+Java related term
+is the form in which a program written in Java is executed by JVM.
+There are instructions for JVM in the form of byte code.
+Each instruction is of 1 byte. This is the intermediate code.
+
+
+A.java    source code
+A.class   byte code
+............................................................
+
+
+microprocessor
+each microprocessor has its own instruction set.
+computer won't start without microprocessor
+
+OS
+is h/w and s/w manager
+
+
+user interface 
+
+shell
+kernel
+
+Program
+stepwise instructions
+-----------------------------------
+
+JVM is a software as well as set of data structure.
+JVM has its own instruction set
+
+OS
+---------------
+Java is a Platform.
+
+Platform is a combination of hardware and software
+Platform means OS
+Platform also means Microprocessor
+
+
+OS 		- JRE
+Micrprocessor	- JVM
+..................
+
+JRE =JVM + run time class libraries
+
+Run time class libraries are not optional
+.........................
+
+JRE or JVM is platform dependent
+
+JRE will be specific for a specific Platform
+JVM 
+..............................................
+
+JDK=JRE+Utilities(Compiler etc.)
+
+JDK is required by a programmer
+JRE is required by everyone who wishes to execute Java  Program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

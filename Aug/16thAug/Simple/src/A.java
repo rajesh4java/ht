@@ -1,0 +1,17 @@
+
+public class A {
+
+	/**
+	 Hiiiiiiiiii
+	 */
+	
+		void display()
+	{
+		
+	/*
+	 Hello
+	 */
+		
+	}
+	
+}

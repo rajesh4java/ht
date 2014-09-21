@@ -1,0 +1,74 @@
+
+data type are the means to identify the type of data and associated operations of handling it.
+
+data type are of two types:
+1 Primitive
+
+1 byte
+2 short
+3 int
+4 long
+5 float
+6 double
+7 char
+8 boolean
+
+
+2 Reference type
+1 class
+2 array
+3 interface
+4 enum
+5 annotation
+---------------------------------------------------
+
+
+
+following information can be obtained through the data type:
+1 kind of value that can be stored in a variable
+2 valid operations that can be performed on that variable
+3 memory occupied by that variable
+
+---------------
+
+integer types:
+byte 
+short 
+int 
+long
+
+
+floating types:
+float
+double
+
+.....................
+
+no. of bytes occupied
+1 byte,boolean
+2 short,char
+4 int,float
+8 long,double
+
+.....................................
+type conversion:
+conversion of one type of value to the other type of value
+
+1 type promotion
+Implicit
+lower type to higher type
+automatic
+
+2 type casting
+explicit
+higher type to lower type
+not automatic
+
+
+
+
+
+
+
+
+

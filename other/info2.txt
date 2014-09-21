@@ -1,0 +1,60 @@
+files will have .java  extension
+
+source code  is the code written by a programmer and is understandable to the programmer
+
+a program written in any programming language always gets executed in the form of machine code.
+
+machine code is also known as native code.
+
+
+source code needs to be converted into machine code
+
+compiler as well as interpreter both are used in Java
+
+a.java  source code
+a.class has the byte code
+
+
+instructions  are in the form of byte code.
+instructions are for JVM
+
+JVM stands for Java Virtual Machine.
+JVM is a software as well as set of data structure.
+
+Java Programs can not run without JVM.
+
+JVM is part of JRE
+
+JRE stands for Java Run time Environment
+
+JRE= JVM+ Run time class libraries
+
+
+No Java Program can run without JRE.
+JRE must be installed to run Java Programs
+----------------------------------------
+
+
+JDK stands for Java development kit
+
+JDK = JRE+ utilities
+
+Compiler is one of the utilities
+-----------------------------------
+JDK is required by a programmer
+JRE is required by programmer as well as user
+---------------------------------------------------
+
+
+JVM, JRE and JDK are Platform dependent
+They are different for Windows, Mac, Linux, Unix etc.
+
+
+
+
+
+
+
+
+
+ 
